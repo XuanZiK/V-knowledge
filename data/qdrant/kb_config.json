@@ -1,0 +1,24 @@
+{
+  "collections": {
+    "test": {
+      "created_at": "2025-06-03 23:58:02",
+      "doc_count": 36,
+      "vector_size": 384
+    },
+    "111": {
+      "created_at": "2025-06-07 13:06:44",
+      "doc_count": 0,
+      "vector_size": 384
+    },
+    "Demonstration": {
+      "created_at": "2025-06-07 18:57:08",
+      "doc_count": 0,
+      "vector_size": 384
+    },
+    "Demonstration2": {
+      "created_at": "2025-06-07 19:00:29",
+      "doc_count": 0,
+      "vector_size": 384
+    }
+  }
+}

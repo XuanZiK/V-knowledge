@@ -1,0 +1,7 @@
+{
+  "sentence-transformers/all-MiniLM-L6-v2": {
+    "type": "Embedding模型",
+    "path": "Embedding模型\\sentence-transformers\\all-MiniLM-L6-v2",
+    "download_date": "2025-06-01 14:56:25"
+  }
+}

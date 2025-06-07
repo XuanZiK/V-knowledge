@@ -1,0 +1,282 @@
+2025-06-04 00:00:42,761 - VectorSearch - INFO - 启动应用程序
+2025-06-04 00:00:42,762 - VectorSearch - INFO - 初始化主窗口
+2025-06-04 00:00:42,762 - VectorSearch - INFO - 应用程序在开发环境中运行，基础目录: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1
+2025-06-04 00:00:42,762 - VectorSearch - INFO - 数据目录路径: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant
+2025-06-04 00:00:42,771 - VectorSearch - INFO - 成功使用本地存储模式
+2025-06-04 00:00:42,771 - VectorSearch - INFO - 成功加载知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:00:42,771 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:09:34,377 - VectorSearch - INFO - 启动应用程序
+2025-06-04 00:09:34,378 - VectorSearch - INFO - 初始化主窗口
+2025-06-04 00:09:34,378 - VectorSearch - INFO - 应用程序在开发环境中运行，基础目录: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1
+2025-06-04 00:09:34,379 - VectorSearch - INFO - 数据目录路径: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant
+2025-06-04 00:09:34,387 - VectorSearch - INFO - 成功使用本地存储模式
+2025-06-04 00:09:34,387 - VectorSearch - INFO - 成功加载知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:09:34,387 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:11:25,173 - VectorSearch - INFO - 启动应用程序
+2025-06-04 00:11:25,173 - VectorSearch - INFO - 初始化主窗口
+2025-06-04 00:11:25,174 - VectorSearch - INFO - 应用程序在开发环境中运行，基础目录: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1
+2025-06-04 00:11:25,174 - VectorSearch - INFO - 数据目录路径: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant
+2025-06-04 00:11:25,182 - VectorSearch - INFO - 成功使用本地存储模式
+2025-06-04 00:11:25,182 - VectorSearch - INFO - 成功加载知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:11:25,182 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:11:34,509 - VectorSearch - INFO - 刷新知识库列表
+2025-06-04 00:12:01,384 - VectorSearch - INFO - 导入文档: D:/PyCharm-Community-Edition/Accept_Work/SaltFish25/C92305-三维重建平台网页/三维重现网站网页结构.docx 到知识库: 默认知识库
+2025-06-04 00:12:01,420 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:12:01,420 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:12:01,424 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:12:01,424 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:12:01,427 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:12:01,428 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:12:01,431 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:12:01,431 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:12:01,434 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:12:01,434 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:12:01,438 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:12:01,438 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:12:01,442 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:12:01,442 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:12:01,445 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:12:01,445 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:12:01,448 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:12:01,448 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:12:01,451 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:12:01,452 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:12:01,455 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:12:01,455 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:12:01,455 - VectorSearch - INFO - 刷新知识库列表
+2025-06-04 00:12:11,059 - VectorSearch - INFO - 导入文档: D:/PyCharm-Community-Edition/Accept_Work/SaltFish25/C92305-三维重建平台网页/三维重现网站网页结构.docx 到知识库: 默认知识库
+2025-06-04 00:12:11,079 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:12:11,079 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:12:11,091 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:12:11,091 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:12:11,102 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:12:11,102 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:12:11,115 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:12:11,115 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:12:11,127 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:12:11,127 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:12:11,140 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:12:11,141 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:12:11,151 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:12:11,151 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:12:11,164 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:12:11,164 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:12:11,175 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:12:11,175 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:12:11,187 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:12:11,187 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:12:11,198 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:12:11,198 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:12:11,199 - VectorSearch - INFO - 刷新知识库列表
+2025-06-04 00:16:10,607 - VectorSearch - INFO - 启动应用程序
+2025-06-04 00:16:10,607 - VectorSearch - INFO - 初始化主窗口
+2025-06-04 00:16:10,608 - VectorSearch - INFO - 应用程序在开发环境中运行，基础目录: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1
+2025-06-04 00:16:10,608 - VectorSearch - INFO - 数据目录路径: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant
+2025-06-04 00:16:10,617 - VectorSearch - INFO - 成功使用本地存储模式
+2025-06-04 00:16:10,617 - VectorSearch - INFO - 成功加载知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:16:10,617 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:16:14,730 - VectorSearch - INFO - 刷新知识库列表
+2025-06-04 00:16:23,881 - VectorSearch - INFO - 导入文档: D:/Downloads/使用教程不看司马.docx 到知识库: test
+2025-06-04 00:16:23,913 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:16:23,913 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:16:23,926 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:16:23,926 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:16:23,938 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:16:23,938 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:16:23,950 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:16:23,951 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:16:23,962 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:16:23,962 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:16:23,962 - VectorSearch - INFO - 刷新知识库列表
+2025-06-04 00:18:33,481 - VectorSearch - INFO - 启动应用程序
+2025-06-04 00:18:33,482 - VectorSearch - INFO - 初始化主窗口
+2025-06-04 00:18:33,482 - VectorSearch - INFO - 应用程序在开发环境中运行，基础目录: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1
+2025-06-04 00:18:33,482 - VectorSearch - INFO - 数据目录路径: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant
+2025-06-04 00:18:33,492 - VectorSearch - INFO - 成功使用本地存储模式
+2025-06-04 00:18:33,492 - VectorSearch - INFO - 成功加载知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:18:33,492 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:18:34,609 - VectorSearch - INFO - 刷新知识库列表
+2025-06-04 00:34:08,547 - VectorSearch - INFO - 启动应用程序
+2025-06-04 00:34:08,548 - VectorSearch - INFO - 初始化主窗口
+2025-06-04 00:34:08,548 - VectorSearch - INFO - 应用程序在开发环境中运行，基础目录: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1
+2025-06-04 00:34:08,548 - VectorSearch - INFO - 数据目录路径: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant
+2025-06-04 00:34:08,557 - VectorSearch - INFO - 成功使用本地存储模式
+2025-06-04 00:34:08,557 - VectorSearch - INFO - 成功加载知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:34:08,557 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:34:10,955 - VectorSearch - INFO - 刷新知识库列表
+2025-06-04 00:34:21,236 - VectorSearch - INFO - 导入文档: D:/Downloads/使用教程不看司马.docx 到知识库: test
+2025-06-04 00:34:21,268 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:34:21,268 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:34:21,281 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:34:21,292 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:34:21,304 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:34:21,315 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:34:21,315 - VectorSearch - INFO - 刷新知识库列表
+2025-06-04 00:34:26,767 - VectorSearch - INFO - 导入文档: D:/Downloads/使用教程不看司马.docx 到知识库: test
+2025-06-04 00:34:26,785 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:34:26,785 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:34:26,797 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:34:26,807 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:34:26,821 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:34:26,831 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:34:26,831 - VectorSearch - INFO - 刷新知识库列表
+2025-06-04 00:37:58,943 - VectorSearch - INFO - 启动应用程序
+2025-06-04 00:37:58,944 - VectorSearch - INFO - 初始化主窗口
+2025-06-04 00:37:58,944 - VectorSearch - INFO - 应用程序在开发环境中运行，基础目录: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1
+2025-06-04 00:37:58,945 - VectorSearch - INFO - 数据目录路径: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant
+2025-06-04 00:37:58,954 - VectorSearch - INFO - 成功使用本地存储模式
+2025-06-04 00:37:58,954 - VectorSearch - INFO - 成功加载知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:37:58,954 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:38:01,683 - VectorSearch - INFO - 刷新知识库列表
+2025-06-04 00:38:09,547 - VectorSearch - INFO - 导入文档: D:/Downloads/使用教程不看司马.docx 到知识库: test
+2025-06-04 00:38:09,578 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:38:09,578 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:38:09,591 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:38:09,604 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:38:09,615 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:38:09,627 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:38:09,627 - VectorSearch - INFO - 刷新知识库列表
+2025-06-04 00:39:24,137 - VectorSearch - INFO - 启动应用程序
+2025-06-04 00:39:24,138 - VectorSearch - INFO - 初始化主窗口
+2025-06-04 00:39:24,138 - VectorSearch - INFO - 应用程序在开发环境中运行，基础目录: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1
+2025-06-04 00:39:24,138 - VectorSearch - INFO - 数据目录路径: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant
+2025-06-04 00:39:24,148 - VectorSearch - INFO - 成功使用本地存储模式
+2025-06-04 00:39:24,148 - VectorSearch - INFO - 成功加载知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:39:24,148 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:39:25,927 - VectorSearch - INFO - 刷新知识库列表
+2025-06-04 00:39:33,161 - VectorSearch - INFO - 导入文档: D:/Downloads/使用教程不看司马.docx 到知识库: test
+2025-06-04 00:39:33,193 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:39:33,193 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:39:33,204 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:39:33,215 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:39:33,227 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:39:33,239 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:39:33,239 - VectorSearch - INFO - 刷新知识库列表
+2025-06-04 00:39:36,911 - VectorSearch - INFO - 导入文档: D:/Downloads/使用教程不看司马.docx 到知识库: test
+2025-06-04 00:39:36,922 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:39:36,922 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:39:36,925 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:39:36,929 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:39:36,932 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:39:36,935 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:39:36,935 - VectorSearch - INFO - 刷新知识库列表
+2025-06-04 00:39:41,581 - VectorSearch - INFO - 导入文档: D:/Downloads/12月份又是我去深圳找他(这是我第三次去找他了以及自己出的机酒 ) 准备跨年一起出去玩 准备从深圳飞成都 期间去的机票酒店包车师傅… 6.docx 到知识库: test
+2025-06-04 00:39:41,664 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:39:41,664 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:39:41,676 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:39:41,688 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:39:41,700 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:39:41,711 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:39:41,723 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:39:41,735 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:39:41,747 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:39:41,759 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:39:41,770 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:39:41,781 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:39:41,793 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:39:41,806 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:39:41,817 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:39:41,828 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:39:41,840 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:39:41,852 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:39:41,864 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:39:41,876 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:39:41,888 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:39:41,899 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:39:41,911 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:39:41,923 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:39:41,935 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:39:41,945 - VectorSearch - INFO - 成功添加 1 条文本到集合 test
+2025-06-04 00:39:41,945 - VectorSearch - INFO - 刷新知识库列表
+2025-06-04 00:39:45,937 - VectorSearch - INFO - 导入文档: D:/Downloads/12月份又是我去深圳找他(这是我第三次去找他了以及自己出的机酒 ) 准备跨年一起出去玩 准备从深圳飞成都 期间去的机票酒店包车师傅… 6.docx 到知识库: 默认知识库
+2025-06-04 00:39:46,026 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:39:46,026 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:46,039 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:46,051 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:46,062 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:46,074 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:46,085 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:46,098 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:46,109 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:46,120 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:46,132 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:46,144 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:46,155 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:46,167 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:46,178 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:46,190 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:46,202 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:46,213 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:46,224 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:46,234 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:46,249 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:46,261 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:46,272 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:46,285 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:46,296 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:46,307 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:46,307 - VectorSearch - INFO - 刷新知识库列表
+2025-06-04 00:39:50,216 - VectorSearch - INFO - 导入文档: D:/Downloads/12月份又是我去深圳找他(这是我第三次去找他了以及自己出的机酒 ) 准备跨年一起出去玩 准备从深圳飞成都 期间去的机票酒店包车师傅… 6.docx 到知识库: 默认知识库
+2025-06-04 00:39:50,308 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:39:50,308 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:50,320 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:50,334 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:50,346 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:50,358 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:50,370 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:50,381 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:50,393 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:50,404 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:50,416 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:50,427 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:50,439 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:50,452 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:50,464 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:50,476 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:50,488 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:50,500 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:50,512 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:50,525 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:50,537 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:50,547 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:50,560 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:50,571 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:50,582 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:50,594 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:50,594 - VectorSearch - INFO - 刷新知识库列表
+2025-06-04 00:39:59,144 - VectorSearch - INFO - 导入文档: D:/Downloads/使用教程不看司马.docx 到知识库: 默认知识库
+2025-06-04 00:39:59,154 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 00:39:59,154 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:59,158 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:59,161 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:59,164 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:59,168 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 00:39:59,168 - VectorSearch - INFO - 刷新知识库列表
+2025-06-04 11:06:44,018 - VectorSearch - INFO - 启动应用程序
+2025-06-04 11:06:44,021 - VectorSearch - INFO - 初始化主窗口
+2025-06-04 11:06:44,021 - VectorSearch - INFO - 应用程序在开发环境中运行，基础目录: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1
+2025-06-04 11:06:44,022 - VectorSearch - INFO - 数据目录路径: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant
+2025-06-04 11:06:44,051 - VectorSearch - INFO - 成功使用本地存储模式
+2025-06-04 11:06:44,054 - VectorSearch - INFO - 成功加载知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 11:06:44,054 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 11:06:47,888 - VectorSearch - INFO - 刷新知识库列表
+2025-06-04 11:06:55,917 - VectorSearch - INFO - 导入文档: D:/PyCharm-Community-Edition/Accept_Work/smallProject/QDRANT1/requirements.txt 到知识库: 默认知识库
+2025-06-04 11:06:55,942 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 11:06:55,943 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 11:06:55,943 - VectorSearch - INFO - 刷新知识库列表
+2025-06-04 11:07:48,081 - VectorSearch - INFO - 启动应用程序
+2025-06-04 11:07:48,082 - VectorSearch - INFO - 初始化主窗口
+2025-06-04 11:07:48,082 - VectorSearch - INFO - 应用程序在开发环境中运行，基础目录: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1
+2025-06-04 11:07:48,082 - VectorSearch - INFO - 数据目录路径: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant
+2025-06-04 11:07:48,095 - VectorSearch - INFO - 成功使用本地存储模式
+2025-06-04 11:07:48,096 - VectorSearch - INFO - 成功加载知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 11:07:48,096 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 11:07:50,820 - VectorSearch - INFO - 刷新知识库列表
+2025-06-04 11:08:52,861 - VectorSearch - INFO - 导入文档: D:/Downloads/使用教程不看司马.docx 到知识库: 默认知识库
+2025-06-04 11:08:52,884 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-04 11:08:52,885 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 11:08:52,888 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 11:08:52,891 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 11:08:52,894 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 11:08:52,898 - VectorSearch - INFO - 成功添加 1 条文本到集合 默认知识库
+2025-06-04 11:08:52,899 - VectorSearch - INFO - 刷新知识库列表

@@ -1,0 +1,180 @@
+2025-06-07 00:25:19,468 - VectorSearch - INFO - 启动应用程序
+2025-06-07 00:25:19,470 - VectorSearch - INFO - 初始化主窗口
+2025-06-07 00:25:19,471 - VectorSearch - INFO - 应用程序在开发环境中运行，基础目录: D:\Qdrant\dist(1)\dist
+2025-06-07 00:25:19,471 - VectorSearch - INFO - 数据目录路径: D:\Qdrant\dist(1)\dist\data\qdrant
+2025-06-07 00:25:19,495 - VectorSearch - INFO - 成功使用本地存储模式
+2025-06-07 00:25:19,497 - VectorSearch - INFO - 成功加载知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-07 00:25:19,498 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-07 00:26:06,843 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 00:26:09,087 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 00:26:27,703 - VectorSearch - INFO - Creating knowledge base: 111
+2025-06-07 00:26:27,708 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-07 00:26:27,708 - VectorSearch - INFO - 成功创建集合: 111
+2025-06-07 00:26:27,709 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 00:26:29,548 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 00:26:30,163 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 00:26:40,232 - VectorSearch - INFO - 删除知识库: 111
+2025-06-07 00:26:40,234 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-07 00:26:40,235 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 00:35:46,839 - VectorSearch - INFO - 启动应用程序
+2025-06-07 00:35:46,841 - VectorSearch - INFO - 初始化主窗口
+2025-06-07 00:35:46,842 - VectorSearch - INFO - 应用程序在开发环境中运行，基础目录: D:\Qdrant\dist(1)\dist
+2025-06-07 00:35:46,842 - VectorSearch - INFO - 数据目录路径: D:\Qdrant\dist(1)\dist\data\qdrant
+2025-06-07 00:35:46,869 - VectorSearch - INFO - 成功使用本地存储模式
+2025-06-07 00:35:46,870 - VectorSearch - INFO - 成功加载知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-07 00:35:46,870 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-07 00:35:58,650 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 00:36:00,965 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 00:36:01,138 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 00:36:01,768 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 00:36:01,909 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 00:36:17,048 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 00:36:17,518 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 00:36:19,750 - VectorSearch - INFO - 删除知识库: 测试
+2025-06-07 00:36:19,752 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-07 00:36:19,753 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 00:48:17,607 - VectorSearch - INFO - 启动应用程序
+2025-06-07 00:48:17,607 - VectorSearch - INFO - 初始化主窗口
+2025-06-07 00:48:17,607 - VectorSearch - INFO - 应用程序在开发环境中运行，基础目录: D:\Qdrant\dist(1)\dist
+2025-06-07 00:48:17,620 - VectorSearch - INFO - 数据目录路径: D:\Qdrant\dist(1)\dist\data\qdrant
+2025-06-07 00:48:17,649 - VectorSearch - INFO - 成功使用本地存储模式
+2025-06-07 00:48:17,650 - VectorSearch - INFO - 成功加载知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-07 00:48:17,650 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-07 00:48:43,217 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 00:48:58,257 - VectorSearch - INFO - Creating knowledge base: 新的测试库
+2025-06-07 00:48:58,276 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-07 00:48:58,276 - VectorSearch - INFO - 成功创建集合: 新的测试库
+2025-06-07 00:48:58,276 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 00:49:08,943 - VectorSearch - INFO - Importing document: C:/Users/Xuan zi K/Desktop/新建文件夹/在云主机进行电商项目VUE前端部署V1.1.pdf to knowledge base: 新的测试库
+2025-06-07 00:49:09,037 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-07 00:49:09,037 - VectorSearch - INFO - Successfully added 1 texts to collection 新的测试库
+2025-06-07 00:49:09,042 - VectorSearch - INFO - Successfully added 1 texts to collection 新的测试库
+2025-06-07 00:49:09,042 - VectorSearch - INFO - Successfully added 1 texts to collection 新的测试库
+2025-06-07 00:49:09,049 - VectorSearch - INFO - Successfully added 1 texts to collection 新的测试库
+2025-06-07 00:49:09,052 - VectorSearch - INFO - Successfully added 1 texts to collection 新的测试库
+2025-06-07 00:49:09,056 - VectorSearch - INFO - Successfully added 1 texts to collection 新的测试库
+2025-06-07 00:49:09,059 - VectorSearch - INFO - Successfully added 1 texts to collection 新的测试库
+2025-06-07 00:49:09,060 - VectorSearch - INFO - Successfully added 1 texts to collection 新的测试库
+2025-06-07 00:49:09,065 - VectorSearch - INFO - Successfully added 1 texts to collection 新的测试库
+2025-06-07 00:49:09,068 - VectorSearch - INFO - Successfully added 1 texts to collection 新的测试库
+2025-06-07 00:49:09,071 - VectorSearch - INFO - Successfully added 1 texts to collection 新的测试库
+2025-06-07 00:49:09,072 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 00:49:10,412 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 00:49:20,939 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 01:24:02,601 - VectorSearch - INFO - 启动应用程序
+2025-06-07 01:24:02,601 - VectorSearch - INFO - 初始化主窗口
+2025-06-07 01:24:02,601 - VectorSearch - INFO - 应用程序在开发环境中运行，基础目录: D:\Qdrant\dist(1)\dist
+2025-06-07 01:24:02,601 - VectorSearch - INFO - 数据目录路径: D:\Qdrant\dist(1)\dist\data\qdrant
+2025-06-07 01:24:02,630 - VectorSearch - INFO - 成功使用本地存储模式
+2025-06-07 01:24:02,631 - VectorSearch - INFO - 成功加载知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-07 01:24:02,632 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-07 01:24:27,738 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 01:24:37,369 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 01:24:40,242 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 01:25:29,058 - VectorSearch - INFO - 删除知识库: 新的测试库
+2025-06-07 01:25:29,060 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-07 01:25:29,060 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 01:25:32,179 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 01:28:32,725 - VectorSearch - INFO - 启动应用程序
+2025-06-07 01:28:32,725 - VectorSearch - INFO - 初始化主窗口
+2025-06-07 01:28:32,725 - VectorSearch - INFO - 应用程序在开发环境中运行，基础目录: D:\Qdrant\dist(1)\dist
+2025-06-07 01:28:32,725 - VectorSearch - INFO - 数据目录路径: D:\Qdrant\dist(1)\dist\data\qdrant
+2025-06-07 01:28:32,749 - VectorSearch - INFO - 成功使用本地存储模式
+2025-06-07 01:28:32,750 - VectorSearch - INFO - 成功加载知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-07 01:28:32,751 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-07 01:29:09,579 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 01:29:46,368 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 01:53:08,984 - VectorSearch - INFO - 启动应用程序
+2025-06-07 01:53:08,984 - VectorSearch - INFO - 初始化主窗口
+2025-06-07 01:53:08,984 - VectorSearch - INFO - 应用程序在开发环境中运行，基础目录: D:\Qdrant\dist(1)\dist
+2025-06-07 01:53:08,984 - VectorSearch - INFO - 数据目录路径: D:\Qdrant\dist(1)\dist\data\qdrant
+2025-06-07 01:53:09,009 - VectorSearch - INFO - 成功使用本地存储模式
+2025-06-07 01:53:09,009 - VectorSearch - INFO - 成功加载知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-07 01:53:09,013 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-07 01:54:19,642 - VectorSearch - INFO - 启动应用程序
+2025-06-07 01:54:19,642 - VectorSearch - INFO - 初始化主窗口
+2025-06-07 01:54:19,642 - VectorSearch - INFO - 应用程序在开发环境中运行，基础目录: D:\Qdrant\dist(1)\dist
+2025-06-07 01:54:19,642 - VectorSearch - INFO - 数据目录路径: D:\Qdrant\dist(1)\dist\data\qdrant
+2025-06-07 01:54:19,666 - VectorSearch - INFO - 成功使用本地存储模式
+2025-06-07 01:54:19,668 - VectorSearch - INFO - 成功加载知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-07 01:54:19,669 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-07 01:54:50,039 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 01:54:50,721 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 01:54:51,061 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 11:20:17,776 - VectorSearch - INFO - 启动应用程序
+2025-06-07 11:20:17,779 - VectorSearch - INFO - 初始化主窗口
+2025-06-07 11:20:17,783 - VectorSearch - INFO - 应用程序在开发环境中运行，基础目录: D:\Qdrant\dist(1)\dist
+2025-06-07 11:20:17,785 - VectorSearch - INFO - 数据目录路径: D:\Qdrant\dist(1)\dist\data\qdrant
+2025-06-07 11:20:17,817 - VectorSearch - INFO - 成功使用本地存储模式
+2025-06-07 11:20:17,817 - VectorSearch - INFO - 成功加载知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-07 11:20:17,817 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-07 11:26:23,956 - VectorSearch - INFO - 启动应用程序
+2025-06-07 11:26:23,956 - VectorSearch - INFO - 初始化主窗口
+2025-06-07 11:26:23,956 - VectorSearch - INFO - 应用程序在开发环境中运行，基础目录: D:\Qdrant\dist(1)\dist
+2025-06-07 11:26:23,956 - VectorSearch - INFO - 数据目录路径: D:\Qdrant\dist(1)\dist\data\qdrant
+2025-06-07 11:26:23,981 - VectorSearch - INFO - 成功使用本地存储模式
+2025-06-07 11:26:23,981 - VectorSearch - INFO - 成功加载知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-07 11:26:23,981 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-07 11:26:43,987 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 13:05:42,911 - VectorSearch - INFO - 启动应用程序
+2025-06-07 13:05:42,911 - VectorSearch - INFO - 初始化主窗口
+2025-06-07 13:05:42,911 - VectorSearch - INFO - 应用程序在开发环境中运行，基础目录: D:\Qdrant\dist
+2025-06-07 13:05:42,911 - VectorSearch - INFO - 数据目录路径: D:\Qdrant\dist\data\qdrant
+2025-06-07 13:05:42,960 - VectorSearch - INFO - 成功使用本地存储模式
+2025-06-07 13:05:42,961 - VectorSearch - INFO - 成功加载知识库配置: D:\Qdrant\dist\data\qdrant\kb_config.json
+2025-06-07 13:05:42,963 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist\data\qdrant\kb_config.json
+2025-06-07 13:06:01,900 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 13:06:24,610 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 13:06:41,788 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 13:06:44,831 - VectorSearch - INFO - Creating knowledge base: 111
+2025-06-07 13:06:44,849 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist\data\qdrant\kb_config.json
+2025-06-07 13:06:44,850 - VectorSearch - INFO - 成功创建集合: 111
+2025-06-07 13:06:44,850 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 13:07:00,645 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 17:21:10,152 - VectorSearch - INFO - 启动应用程序
+2025-06-07 17:21:10,153 - VectorSearch - INFO - 初始化主窗口
+2025-06-07 17:21:10,155 - VectorSearch - INFO - 应用程序在开发环境中运行，基础目录: D:\Qdrant\dist
+2025-06-07 17:21:10,155 - VectorSearch - INFO - 数据目录路径: D:\Qdrant\dist\data\qdrant
+2025-06-07 17:21:10,237 - VectorSearch - INFO - 成功使用本地存储模式
+2025-06-07 17:21:10,238 - VectorSearch - INFO - 成功加载知识库配置: D:\Qdrant\dist\data\qdrant\kb_config.json
+2025-06-07 17:21:10,239 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist\data\qdrant\kb_config.json
+2025-06-07 17:44:03,120 - VectorSearch - INFO - 启动应用程序
+2025-06-07 17:44:03,131 - VectorSearch - INFO - 初始化主窗口
+2025-06-07 17:44:03,131 - VectorSearch - INFO - 应用程序在开发环境中运行，基础目录: D:\Qdrant\dist
+2025-06-07 17:44:03,136 - VectorSearch - INFO - 数据目录路径: D:\Qdrant\dist\data\qdrant
+2025-06-07 17:44:03,176 - VectorSearch - INFO - 成功使用本地存储模式
+2025-06-07 17:44:03,176 - VectorSearch - INFO - 成功加载知识库配置: D:\Qdrant\dist\data\qdrant\kb_config.json
+2025-06-07 17:44:03,178 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist\data\qdrant\kb_config.json
+2025-06-07 18:22:50,130 - VectorSearch - INFO - 启动应用程序
+2025-06-07 18:22:50,135 - VectorSearch - INFO - 初始化主窗口
+2025-06-07 18:22:50,136 - VectorSearch - INFO - 应用程序在开发环境中运行，基础目录: D:\Qdrant\dist
+2025-06-07 18:22:50,136 - VectorSearch - INFO - 数据目录路径: D:\Qdrant\dist\data\qdrant
+2025-06-07 18:22:50,180 - VectorSearch - INFO - 成功使用本地存储模式
+2025-06-07 18:22:50,180 - VectorSearch - INFO - 成功加载知识库配置: D:\Qdrant\dist\data\qdrant\kb_config.json
+2025-06-07 18:22:50,180 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist\data\qdrant\kb_config.json
+2025-06-07 18:33:21,378 - VectorSearch - INFO - 启动应用程序
+2025-06-07 18:33:21,378 - VectorSearch - INFO - 初始化主窗口
+2025-06-07 18:33:21,383 - VectorSearch - INFO - 应用程序在开发环境中运行，基础目录: D:\Qdrant\dist
+2025-06-07 18:33:21,383 - VectorSearch - INFO - 数据目录路径: D:\Qdrant\dist\data\qdrant
+2025-06-07 18:33:21,418 - VectorSearch - INFO - 成功使用本地存储模式
+2025-06-07 18:33:21,419 - VectorSearch - INFO - 成功加载知识库配置: D:\Qdrant\dist\data\qdrant\kb_config.json
+2025-06-07 18:33:21,420 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist\data\qdrant\kb_config.json
+2025-06-07 18:34:40,225 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 18:41:44,081 - VectorSearch - INFO - 启动应用程序
+2025-06-07 18:41:44,089 - VectorSearch - INFO - 初始化主窗口
+2025-06-07 18:41:44,091 - VectorSearch - INFO - 应用程序在开发环境中运行，基础目录: D:\Qdrant\dist
+2025-06-07 18:41:44,101 - VectorSearch - INFO - 数据目录路径: D:\Qdrant\dist\data\qdrant
+2025-06-07 18:41:44,166 - VectorSearch - INFO - 成功使用本地存储模式
+2025-06-07 18:41:44,168 - VectorSearch - INFO - 成功加载知识库配置: D:\Qdrant\dist\data\qdrant\kb_config.json
+2025-06-07 18:41:44,171 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist\data\qdrant\kb_config.json
+2025-06-07 18:57:08,203 - VectorSearch - INFO - Creating knowledge base: Demonstration
+2025-06-07 18:57:08,222 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist\data\qdrant\kb_config.json
+2025-06-07 18:57:08,222 - VectorSearch - INFO - 成功创建集合: Demonstration
+2025-06-07 18:57:08,223 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 18:57:41,179 - VectorSearch - INFO - 删除知识库: 默认知识库
+2025-06-07 18:57:41,183 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist\data\qdrant\kb_config.json
+2025-06-07 18:57:41,183 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 19:00:29,683 - VectorSearch - INFO - Creating knowledge base: Demonstration2
+2025-06-07 19:00:29,706 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist\data\qdrant\kb_config.json
+2025-06-07 19:00:29,706 - VectorSearch - INFO - 成功创建集合: Demonstration2
+2025-06-07 19:00:29,706 - VectorSearch - INFO - 刷新知识库列表

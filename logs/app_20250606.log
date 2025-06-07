@@ -1,0 +1,329 @@
+2025-06-06 15:54:43,963 - VectorSearch - INFO - 启动应用程序
+2025-06-06 15:54:43,964 - VectorSearch - INFO - 初始化主窗口
+2025-06-06 15:54:43,964 - VectorSearch - INFO - 应用程序在开发环境中运行，基础目录: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1
+2025-06-06 15:54:43,964 - VectorSearch - INFO - 数据目录路径: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant
+2025-06-06 15:54:43,974 - VectorSearch - INFO - 成功使用本地存储模式
+2025-06-06 15:54:43,974 - VectorSearch - INFO - 成功加载知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-06 15:54:43,974 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-06 15:54:55,985 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 15:55:01,284 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 15:55:01,700 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 15:55:01,900 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 16:12:54,837 - VectorSearch - INFO - 启动应用程序
+2025-06-06 16:12:54,838 - VectorSearch - INFO - 初始化主窗口
+2025-06-06 16:12:54,838 - VectorSearch - INFO - 应用程序在开发环境中运行，基础目录: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1
+2025-06-06 16:12:54,838 - VectorSearch - INFO - 数据目录路径: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant
+2025-06-06 16:12:54,848 - VectorSearch - INFO - 成功使用本地存储模式
+2025-06-06 16:12:54,848 - VectorSearch - INFO - 成功加载知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-06 16:12:54,848 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-06 16:13:01,785 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 16:22:17,589 - VectorSearch - INFO - 启动应用程序
+2025-06-06 16:22:17,590 - VectorSearch - INFO - 初始化主窗口
+2025-06-06 16:22:17,590 - VectorSearch - INFO - 应用程序在开发环境中运行，基础目录: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1
+2025-06-06 16:22:17,590 - VectorSearch - INFO - 数据目录路径: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant
+2025-06-06 16:22:17,600 - VectorSearch - INFO - 成功使用本地存储模式
+2025-06-06 16:22:17,600 - VectorSearch - INFO - 成功加载知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-06 16:22:17,600 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-06 16:26:27,940 - VectorSearch - INFO - 启动应用程序
+2025-06-06 16:26:27,940 - VectorSearch - INFO - 初始化主窗口
+2025-06-06 16:26:27,941 - VectorSearch - INFO - 应用程序在开发环境中运行，基础目录: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1
+2025-06-06 16:26:27,941 - VectorSearch - INFO - 数据目录路径: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant
+2025-06-06 16:26:27,951 - VectorSearch - INFO - 成功使用本地存储模式
+2025-06-06 16:26:27,951 - VectorSearch - INFO - 成功加载知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-06 16:26:27,951 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-06 16:28:05,949 - VectorSearch - INFO - 启动应用程序
+2025-06-06 16:28:05,949 - VectorSearch - INFO - 初始化主窗口
+2025-06-06 16:28:05,949 - VectorSearch - INFO - 应用程序在开发环境中运行，基础目录: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1
+2025-06-06 16:28:05,950 - VectorSearch - INFO - 数据目录路径: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant
+2025-06-06 16:28:05,959 - VectorSearch - INFO - 成功使用本地存储模式
+2025-06-06 16:28:05,959 - VectorSearch - INFO - 成功加载知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-06 16:28:05,960 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-06 16:28:18,042 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 16:28:24,940 - VectorSearch - INFO - Importing document: D:/Downloads/使用教程不看司马.docx to knowledge base: 默认知识库
+2025-06-06 16:28:24,959 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-06 16:28:24,959 - VectorSearch - INFO - Successfully added 1 texts to collection 默认知识库
+2025-06-06 16:28:24,962 - VectorSearch - INFO - Successfully added 1 texts to collection 默认知识库
+2025-06-06 16:28:24,966 - VectorSearch - INFO - Successfully added 1 texts to collection 默认知识库
+2025-06-06 16:28:24,968 - VectorSearch - INFO - Successfully added 1 texts to collection 默认知识库
+2025-06-06 16:28:24,972 - VectorSearch - INFO - Successfully added 1 texts to collection 默认知识库
+2025-06-06 16:28:24,972 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 16:30:36,062 - VectorSearch - INFO - 启动应用程序
+2025-06-06 16:30:36,063 - VectorSearch - INFO - 初始化主窗口
+2025-06-06 16:30:36,063 - VectorSearch - INFO - 应用程序在开发环境中运行，基础目录: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1
+2025-06-06 16:30:36,063 - VectorSearch - INFO - 数据目录路径: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant
+2025-06-06 16:30:36,073 - VectorSearch - INFO - 成功使用本地存储模式
+2025-06-06 16:30:36,073 - VectorSearch - INFO - 成功加载知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-06 16:30:36,074 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-06 16:30:57,813 - VectorSearch - INFO - 启动应用程序
+2025-06-06 16:30:57,814 - VectorSearch - INFO - 初始化主窗口
+2025-06-06 16:30:57,814 - VectorSearch - INFO - 应用程序在开发环境中运行，基础目录: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1
+2025-06-06 16:30:57,814 - VectorSearch - INFO - 数据目录路径: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant
+2025-06-06 16:30:57,824 - VectorSearch - INFO - 成功使用本地存储模式
+2025-06-06 16:30:57,824 - VectorSearch - INFO - 成功加载知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-06 16:30:57,824 - VectorSearch - INFO - 成功保存知识库配置: D:\PyCharm-Community-Edition\Accept_Work\smallProject\QDRANT1\data\qdrant\kb_config.json
+2025-06-06 16:31:05,624 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:04:01,482 - VectorSearch - INFO - 启动应用程序
+2025-06-06 22:04:01,482 - VectorSearch - INFO - 初始化主窗口
+2025-06-06 22:04:01,482 - VectorSearch - INFO - 应用程序在开发环境中运行，基础目录: D:\Qdrant\dist(1)\dist
+2025-06-06 22:04:01,482 - VectorSearch - INFO - 数据目录路径: D:\Qdrant\dist(1)\dist\data\qdrant
+2025-06-06 22:04:01,518 - VectorSearch - INFO - 成功使用本地存储模式
+2025-06-06 22:04:01,518 - VectorSearch - INFO - 成功加载知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-06 22:04:01,518 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-06 22:04:35,672 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:04:37,707 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:04:38,675 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:06:07,963 - VectorSearch - INFO - Creating knowledge base: 新的
+2025-06-06 22:06:07,983 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-06 22:06:07,983 - VectorSearch - INFO - 成功创建集合: 新的
+2025-06-06 22:06:07,984 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:06:18,643 - VectorSearch - INFO - Importing document: C:/Users/Xuan zi K/Desktop/新建文件夹/基于云主机的CodeArts IDE运行Java电商项目V1.0.pdf to knowledge base: 新的
+2025-06-06 22:06:18,769 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-06 22:06:18,769 - VectorSearch - INFO - Successfully added 1 texts to collection 新的
+2025-06-06 22:06:18,773 - VectorSearch - INFO - Successfully added 1 texts to collection 新的
+2025-06-06 22:06:18,776 - VectorSearch - INFO - Successfully added 1 texts to collection 新的
+2025-06-06 22:06:18,779 - VectorSearch - INFO - Successfully added 1 texts to collection 新的
+2025-06-06 22:06:18,781 - VectorSearch - INFO - Successfully added 1 texts to collection 新的
+2025-06-06 22:06:18,784 - VectorSearch - INFO - Successfully added 1 texts to collection 新的
+2025-06-06 22:06:18,787 - VectorSearch - INFO - Successfully added 1 texts to collection 新的
+2025-06-06 22:06:18,787 - VectorSearch - INFO - Successfully added 1 texts to collection 新的
+2025-06-06 22:06:18,793 - VectorSearch - INFO - Successfully added 1 texts to collection 新的
+2025-06-06 22:06:18,796 - VectorSearch - INFO - Successfully added 1 texts to collection 新的
+2025-06-06 22:06:18,798 - VectorSearch - INFO - Successfully added 1 texts to collection 新的
+2025-06-06 22:06:18,798 - VectorSearch - INFO - Successfully added 1 texts to collection 新的
+2025-06-06 22:06:18,804 - VectorSearch - INFO - Successfully added 1 texts to collection 新的
+2025-06-06 22:06:18,809 - VectorSearch - INFO - Successfully added 1 texts to collection 新的
+2025-06-06 22:06:18,813 - VectorSearch - INFO - Successfully added 1 texts to collection 新的
+2025-06-06 22:06:18,815 - VectorSearch - INFO - Successfully added 1 texts to collection 新的
+2025-06-06 22:06:18,815 - VectorSearch - INFO - Successfully added 1 texts to collection 新的
+2025-06-06 22:06:18,815 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:06:20,417 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:06:56,403 - VectorSearch - INFO - 删除知识库: 新的
+2025-06-06 22:06:56,403 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-06 22:06:56,403 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:06:59,384 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:06:59,833 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:07:00,193 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:08:38,158 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:08:38,301 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:27:51,578 - VectorSearch - INFO - 启动应用程序
+2025-06-06 22:27:51,578 - VectorSearch - INFO - 初始化主窗口
+2025-06-06 22:27:51,578 - VectorSearch - INFO - 应用程序在开发环境中运行，基础目录: D:\Qdrant\dist(1)\dist
+2025-06-06 22:27:51,578 - VectorSearch - INFO - 数据目录路径: D:\Qdrant\dist(1)\dist\data\qdrant
+2025-06-06 22:27:51,602 - VectorSearch - INFO - 成功使用本地存储模式
+2025-06-06 22:27:51,602 - VectorSearch - INFO - 成功加载知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-06 22:27:51,604 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-06 22:27:55,743 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:28:07,143 - VectorSearch - INFO - Creating knowledge base: new
+2025-06-06 22:28:07,153 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-06 22:28:07,153 - VectorSearch - INFO - 成功创建集合: new
+2025-06-06 22:28:07,153 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:28:10,135 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:28:10,393 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:28:10,533 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:28:17,773 - VectorSearch - INFO - Importing document: C:/Users/Xuan zi K/Desktop/新建文件夹/基于PyTorch的手写体识别V2.0.pdf to knowledge base: new
+2025-06-06 22:28:18,008 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-06 22:28:18,009 - VectorSearch - INFO - Successfully added 1 texts to collection new
+2025-06-06 22:28:18,011 - VectorSearch - INFO - Successfully added 1 texts to collection new
+2025-06-06 22:28:18,015 - VectorSearch - INFO - Successfully added 1 texts to collection new
+2025-06-06 22:28:18,020 - VectorSearch - INFO - Successfully added 1 texts to collection new
+2025-06-06 22:28:18,025 - VectorSearch - INFO - Successfully added 1 texts to collection new
+2025-06-06 22:28:18,028 - VectorSearch - INFO - Successfully added 1 texts to collection new
+2025-06-06 22:28:18,031 - VectorSearch - INFO - Successfully added 1 texts to collection new
+2025-06-06 22:28:18,035 - VectorSearch - INFO - Successfully added 1 texts to collection new
+2025-06-06 22:28:18,038 - VectorSearch - INFO - Successfully added 1 texts to collection new
+2025-06-06 22:28:18,041 - VectorSearch - INFO - Successfully added 1 texts to collection new
+2025-06-06 22:28:18,044 - VectorSearch - INFO - Successfully added 1 texts to collection new
+2025-06-06 22:28:18,047 - VectorSearch - INFO - Successfully added 1 texts to collection new
+2025-06-06 22:28:18,051 - VectorSearch - INFO - Successfully added 1 texts to collection new
+2025-06-06 22:28:18,054 - VectorSearch - INFO - Successfully added 1 texts to collection new
+2025-06-06 22:28:18,057 - VectorSearch - INFO - Successfully added 1 texts to collection new
+2025-06-06 22:28:18,060 - VectorSearch - INFO - Successfully added 1 texts to collection new
+2025-06-06 22:28:18,063 - VectorSearch - INFO - Successfully added 1 texts to collection new
+2025-06-06 22:28:18,067 - VectorSearch - INFO - Successfully added 1 texts to collection new
+2025-06-06 22:28:18,070 - VectorSearch - INFO - Successfully added 1 texts to collection new
+2025-06-06 22:28:18,075 - VectorSearch - INFO - Successfully added 1 texts to collection new
+2025-06-06 22:28:18,078 - VectorSearch - INFO - Successfully added 1 texts to collection new
+2025-06-06 22:28:18,081 - VectorSearch - INFO - Successfully added 1 texts to collection new
+2025-06-06 22:28:18,084 - VectorSearch - INFO - Successfully added 1 texts to collection new
+2025-06-06 22:28:18,087 - VectorSearch - INFO - Successfully added 1 texts to collection new
+2025-06-06 22:28:18,088 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:28:38,293 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:28:53,975 - VectorSearch - INFO - Creating knowledge base: 新的数据库
+2025-06-06 22:28:53,985 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-06 22:28:53,986 - VectorSearch - INFO - 成功创建集合: 新的数据库
+2025-06-06 22:28:53,986 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:29:28,017 - VectorSearch - INFO - Importing document: C:/Users/Xuan zi K/Desktop/新建文件夹/云主机轻松部署DeepSeek V3.0.pdf to knowledge base: 新的数据库
+2025-06-06 22:29:28,163 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-06 22:29:28,163 - VectorSearch - INFO - Successfully added 1 texts to collection 新的数据库
+2025-06-06 22:29:28,174 - VectorSearch - INFO - Successfully added 1 texts to collection 新的数据库
+2025-06-06 22:29:28,174 - VectorSearch - INFO - Successfully added 1 texts to collection 新的数据库
+2025-06-06 22:29:28,182 - VectorSearch - INFO - Successfully added 1 texts to collection 新的数据库
+2025-06-06 22:29:28,184 - VectorSearch - INFO - Successfully added 1 texts to collection 新的数据库
+2025-06-06 22:29:28,187 - VectorSearch - INFO - Successfully added 1 texts to collection 新的数据库
+2025-06-06 22:29:28,189 - VectorSearch - INFO - Successfully added 1 texts to collection 新的数据库
+2025-06-06 22:29:28,191 - VectorSearch - INFO - Successfully added 1 texts to collection 新的数据库
+2025-06-06 22:29:28,195 - VectorSearch - INFO - Successfully added 1 texts to collection 新的数据库
+2025-06-06 22:29:28,198 - VectorSearch - INFO - Successfully added 1 texts to collection 新的数据库
+2025-06-06 22:29:28,201 - VectorSearch - INFO - Successfully added 1 texts to collection 新的数据库
+2025-06-06 22:29:28,204 - VectorSearch - INFO - Successfully added 1 texts to collection 新的数据库
+2025-06-06 22:29:28,207 - VectorSearch - INFO - Successfully added 1 texts to collection 新的数据库
+2025-06-06 22:29:28,207 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:29:54,654 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:31:19,175 - VectorSearch - INFO - 启动应用程序
+2025-06-06 22:31:19,175 - VectorSearch - INFO - 初始化主窗口
+2025-06-06 22:31:19,175 - VectorSearch - INFO - 应用程序在开发环境中运行，基础目录: D:\Qdrant\dist(1)\dist
+2025-06-06 22:31:19,175 - VectorSearch - INFO - 数据目录路径: D:\Qdrant\dist(1)\dist\data\qdrant
+2025-06-06 22:31:19,203 - VectorSearch - INFO - 成功使用本地存储模式
+2025-06-06 22:31:19,203 - VectorSearch - INFO - 成功加载知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-06 22:31:19,204 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-06 22:31:34,313 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:31:38,506 - VectorSearch - INFO - 删除知识库: new
+2025-06-06 22:31:38,506 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-06 22:31:38,506 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:31:39,903 - VectorSearch - INFO - 删除知识库: 新的数据库
+2025-06-06 22:31:39,904 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-06 22:31:39,904 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:31:40,756 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:32:22,325 - VectorSearch - INFO - Creating knowledge base: 新的
+2025-06-06 22:32:22,329 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-06 22:32:22,329 - VectorSearch - INFO - 成功创建集合: 新的
+2025-06-06 22:32:22,330 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:32:44,124 - VectorSearch - INFO - Importing document: C:/Users/Xuan zi K/Desktop/新建文件夹/基于PyTorch的手写体识别V2.0.pdf to knowledge base: 默认知识库
+2025-06-06 22:32:44,345 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-06 22:32:44,345 - VectorSearch - INFO - Successfully added 1 texts to collection 默认知识库
+2025-06-06 22:32:44,348 - VectorSearch - INFO - Successfully added 1 texts to collection 默认知识库
+2025-06-06 22:32:44,356 - VectorSearch - INFO - Successfully added 1 texts to collection 默认知识库
+2025-06-06 22:32:44,360 - VectorSearch - INFO - Successfully added 1 texts to collection 默认知识库
+2025-06-06 22:32:44,365 - VectorSearch - INFO - Successfully added 1 texts to collection 默认知识库
+2025-06-06 22:32:44,368 - VectorSearch - INFO - Successfully added 1 texts to collection 默认知识库
+2025-06-06 22:32:44,371 - VectorSearch - INFO - Successfully added 1 texts to collection 默认知识库
+2025-06-06 22:32:44,374 - VectorSearch - INFO - Successfully added 1 texts to collection 默认知识库
+2025-06-06 22:32:44,378 - VectorSearch - INFO - Successfully added 1 texts to collection 默认知识库
+2025-06-06 22:32:44,380 - VectorSearch - INFO - Successfully added 1 texts to collection 默认知识库
+2025-06-06 22:32:44,383 - VectorSearch - INFO - Successfully added 1 texts to collection 默认知识库
+2025-06-06 22:32:44,385 - VectorSearch - INFO - Successfully added 1 texts to collection 默认知识库
+2025-06-06 22:32:44,388 - VectorSearch - INFO - Successfully added 1 texts to collection 默认知识库
+2025-06-06 22:32:44,391 - VectorSearch - INFO - Successfully added 1 texts to collection 默认知识库
+2025-06-06 22:32:44,393 - VectorSearch - INFO - Successfully added 1 texts to collection 默认知识库
+2025-06-06 22:32:44,396 - VectorSearch - INFO - Successfully added 1 texts to collection 默认知识库
+2025-06-06 22:32:44,399 - VectorSearch - INFO - Successfully added 1 texts to collection 默认知识库
+2025-06-06 22:32:44,401 - VectorSearch - INFO - Successfully added 1 texts to collection 默认知识库
+2025-06-06 22:32:44,404 - VectorSearch - INFO - Successfully added 1 texts to collection 默认知识库
+2025-06-06 22:32:44,407 - VectorSearch - INFO - Successfully added 1 texts to collection 默认知识库
+2025-06-06 22:32:44,409 - VectorSearch - INFO - Successfully added 1 texts to collection 默认知识库
+2025-06-06 22:32:44,412 - VectorSearch - INFO - Successfully added 1 texts to collection 默认知识库
+2025-06-06 22:32:44,415 - VectorSearch - INFO - Successfully added 1 texts to collection 默认知识库
+2025-06-06 22:32:44,417 - VectorSearch - INFO - Successfully added 1 texts to collection 默认知识库
+2025-06-06 22:32:44,418 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:32:51,912 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:32:54,705 - VectorSearch - INFO - Importing document: C:/Users/Xuan zi K/Desktop/新建文件夹/在云主机进行电商项目VUE前端部署V1.1.pdf to knowledge base: 新的
+2025-06-06 22:32:54,773 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-06 22:32:54,774 - VectorSearch - INFO - Successfully added 1 texts to collection 新的
+2025-06-06 22:32:54,777 - VectorSearch - INFO - Successfully added 1 texts to collection 新的
+2025-06-06 22:32:54,781 - VectorSearch - INFO - Successfully added 1 texts to collection 新的
+2025-06-06 22:32:54,785 - VectorSearch - INFO - Successfully added 1 texts to collection 新的
+2025-06-06 22:32:54,787 - VectorSearch - INFO - Successfully added 1 texts to collection 新的
+2025-06-06 22:32:54,790 - VectorSearch - INFO - Successfully added 1 texts to collection 新的
+2025-06-06 22:32:54,792 - VectorSearch - INFO - Successfully added 1 texts to collection 新的
+2025-06-06 22:32:54,795 - VectorSearch - INFO - Successfully added 1 texts to collection 新的
+2025-06-06 22:32:54,797 - VectorSearch - INFO - Successfully added 1 texts to collection 新的
+2025-06-06 22:32:54,800 - VectorSearch - INFO - Successfully added 1 texts to collection 新的
+2025-06-06 22:32:54,802 - VectorSearch - INFO - Successfully added 1 texts to collection 新的
+2025-06-06 22:32:54,802 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:32:58,100 - VectorSearch - INFO - 删除知识库: 新的
+2025-06-06 22:32:58,102 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-06 22:32:58,103 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:33:12,807 - VectorSearch - INFO - Creating knowledge base: 111
+2025-06-06 22:33:12,821 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-06 22:33:12,822 - VectorSearch - INFO - 成功创建集合: 111
+2025-06-06 22:33:12,822 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:33:18,278 - VectorSearch - INFO - Importing document: C:/Users/Xuan zi K/Desktop/新建文件夹/在云主机进行电商项目VUE前端部署V1.1.pdf to knowledge base: 111
+2025-06-06 22:33:18,350 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-06 22:33:18,350 - VectorSearch - INFO - Successfully added 1 texts to collection 111
+2025-06-06 22:33:18,354 - VectorSearch - INFO - Successfully added 1 texts to collection 111
+2025-06-06 22:33:18,357 - VectorSearch - INFO - Successfully added 1 texts to collection 111
+2025-06-06 22:33:18,361 - VectorSearch - INFO - Successfully added 1 texts to collection 111
+2025-06-06 22:33:18,363 - VectorSearch - INFO - Successfully added 1 texts to collection 111
+2025-06-06 22:33:18,366 - VectorSearch - INFO - Successfully added 1 texts to collection 111
+2025-06-06 22:33:18,369 - VectorSearch - INFO - Successfully added 1 texts to collection 111
+2025-06-06 22:33:18,372 - VectorSearch - INFO - Successfully added 1 texts to collection 111
+2025-06-06 22:33:18,375 - VectorSearch - INFO - Successfully added 1 texts to collection 111
+2025-06-06 22:33:18,378 - VectorSearch - INFO - Successfully added 1 texts to collection 111
+2025-06-06 22:33:18,380 - VectorSearch - INFO - Successfully added 1 texts to collection 111
+2025-06-06 22:33:18,381 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:33:22,453 - VectorSearch - INFO - 删除知识库: 111
+2025-06-06 22:33:22,455 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-06 22:33:22,456 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:33:28,554 - VectorSearch - INFO - Creating knowledge base: 111
+2025-06-06 22:33:28,559 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-06 22:33:28,559 - VectorSearch - INFO - 成功创建集合: 111
+2025-06-06 22:33:28,559 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:33:32,637 - VectorSearch - INFO - Importing document: C:/Users/Xuan zi K/Desktop/新建文件夹/基于云主机的CodeArts IDE运行Java电商项目V1.0.pdf to knowledge base: 111
+2025-06-06 22:33:32,732 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-06 22:33:32,733 - VectorSearch - INFO - Successfully added 1 texts to collection 111
+2025-06-06 22:33:32,735 - VectorSearch - INFO - Successfully added 1 texts to collection 111
+2025-06-06 22:33:32,738 - VectorSearch - INFO - Successfully added 1 texts to collection 111
+2025-06-06 22:33:32,740 - VectorSearch - INFO - Successfully added 1 texts to collection 111
+2025-06-06 22:33:32,742 - VectorSearch - INFO - Successfully added 1 texts to collection 111
+2025-06-06 22:33:32,745 - VectorSearch - INFO - Successfully added 1 texts to collection 111
+2025-06-06 22:33:32,748 - VectorSearch - INFO - Successfully added 1 texts to collection 111
+2025-06-06 22:33:32,751 - VectorSearch - INFO - Successfully added 1 texts to collection 111
+2025-06-06 22:33:32,755 - VectorSearch - INFO - Successfully added 1 texts to collection 111
+2025-06-06 22:33:32,757 - VectorSearch - INFO - Successfully added 1 texts to collection 111
+2025-06-06 22:33:32,759 - VectorSearch - INFO - Successfully added 1 texts to collection 111
+2025-06-06 22:33:32,762 - VectorSearch - INFO - Successfully added 1 texts to collection 111
+2025-06-06 22:33:32,764 - VectorSearch - INFO - Successfully added 1 texts to collection 111
+2025-06-06 22:33:32,767 - VectorSearch - INFO - Successfully added 1 texts to collection 111
+2025-06-06 22:33:32,769 - VectorSearch - INFO - Successfully added 1 texts to collection 111
+2025-06-06 22:33:32,771 - VectorSearch - INFO - Successfully added 1 texts to collection 111
+2025-06-06 22:33:32,774 - VectorSearch - INFO - Successfully added 1 texts to collection 111
+2025-06-06 22:33:32,774 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:34:14,272 - VectorSearch - INFO - 删除知识库: 111
+2025-06-06 22:34:14,274 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-06 22:34:14,275 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:34:23,986 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 22:34:24,104 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 23:56:21,605 - VectorSearch - INFO - 启动应用程序
+2025-06-06 23:56:21,605 - VectorSearch - INFO - 初始化主窗口
+2025-06-06 23:56:21,605 - VectorSearch - INFO - 应用程序在开发环境中运行，基础目录: D:\Qdrant\dist(1)\dist
+2025-06-06 23:56:21,605 - VectorSearch - INFO - 数据目录路径: D:\Qdrant\dist(1)\dist\data\qdrant
+2025-06-06 23:56:21,636 - VectorSearch - INFO - 成功使用本地存储模式
+2025-06-06 23:56:21,636 - VectorSearch - INFO - 成功加载知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-06 23:56:21,637 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-06 23:56:28,566 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 23:56:29,506 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 23:56:34,096 - VectorSearch - INFO - Creating knowledge base: 测试
+2025-06-06 23:56:34,116 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-06 23:56:34,116 - VectorSearch - INFO - 成功创建集合: 测试
+2025-06-06 23:56:34,116 - VectorSearch - INFO - 刷新知识库列表
+2025-06-06 23:56:46,208 - VectorSearch - INFO - Importing document: C:/Users/Xuan zi K/Desktop/新建文件夹/基于PyTorch的手写体识别V2.0.pdf to knowledge base: 测试
+2025-06-06 23:56:46,446 - VectorSearch - INFO - 成功保存知识库配置: D:\Qdrant\dist(1)\dist\data\qdrant\kb_config.json
+2025-06-06 23:56:46,446 - VectorSearch - INFO - Successfully added 1 texts to collection 测试
+2025-06-06 23:56:46,452 - VectorSearch - INFO - Successfully added 1 texts to collection 测试
+2025-06-06 23:56:46,457 - VectorSearch - INFO - Successfully added 1 texts to collection 测试
+2025-06-06 23:56:46,466 - VectorSearch - INFO - Successfully added 1 texts to collection 测试
+2025-06-06 23:56:46,471 - VectorSearch - INFO - Successfully added 1 texts to collection 测试
+2025-06-06 23:56:46,475 - VectorSearch - INFO - Successfully added 1 texts to collection 测试
+2025-06-06 23:56:46,475 - VectorSearch - INFO - Successfully added 1 texts to collection 测试
+2025-06-06 23:56:46,481 - VectorSearch - INFO - Successfully added 1 texts to collection 测试
+2025-06-06 23:56:46,484 - VectorSearch - INFO - Successfully added 1 texts to collection 测试
+2025-06-06 23:56:46,486 - VectorSearch - INFO - Successfully added 1 texts to collection 测试
+2025-06-06 23:56:46,491 - VectorSearch - INFO - Successfully added 1 texts to collection 测试
+2025-06-06 23:56:46,492 - VectorSearch - INFO - Successfully added 1 texts to collection 测试
+2025-06-06 23:56:46,496 - VectorSearch - INFO - Successfully added 1 texts to collection 测试
+2025-06-06 23:56:46,496 - VectorSearch - INFO - Successfully added 1 texts to collection 测试
+2025-06-06 23:56:46,502 - VectorSearch - INFO - Successfully added 1 texts to collection 测试
+2025-06-06 23:56:46,505 - VectorSearch - INFO - Successfully added 1 texts to collection 测试
+2025-06-06 23:56:46,507 - VectorSearch - INFO - Successfully added 1 texts to collection 测试
+2025-06-06 23:56:46,511 - VectorSearch - INFO - Successfully added 1 texts to collection 测试
+2025-06-06 23:56:46,513 - VectorSearch - INFO - Successfully added 1 texts to collection 测试
+2025-06-06 23:56:46,516 - VectorSearch - INFO - Successfully added 1 texts to collection 测试
+2025-06-06 23:56:46,519 - VectorSearch - INFO - Successfully added 1 texts to collection 测试
+2025-06-06 23:56:46,523 - VectorSearch - INFO - Successfully added 1 texts to collection 测试
+2025-06-06 23:56:46,526 - VectorSearch - INFO - Successfully added 1 texts to collection 测试
+2025-06-06 23:56:46,528 - VectorSearch - INFO - Successfully added 1 texts to collection 测试
+2025-06-06 23:56:46,530 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 00:00:08,966 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 00:00:09,118 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 00:00:09,266 - VectorSearch - INFO - 刷新知识库列表
+2025-06-07 00:00:09,716 - VectorSearch - INFO - 刷新知识库列表
